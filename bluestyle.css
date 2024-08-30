@@ -1,7 +1,17 @@
 body{
-    background-color: lightblue
+    font-family:Helvetica;
+    background-color: lightblue;
 }
+img {
+    width: 200px;
+    }
 h1{
     color:navy;
     margin-left: 20px;
+}
+footer{
+    padding: 20px;
+    border-top: 1px solid #0a1cb7; 
+    margin-top: 20px;
+    
 }
